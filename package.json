@@ -1,7 +1,7 @@
 {
   "name": "url2path",
   "description": "Convert urls into valid file paths",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/hitsthings/node-url2path",
   "author": {
     "name": "Adam Ahmed",
